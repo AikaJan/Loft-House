@@ -1,0 +1,14 @@
+{
+  "name": "lofthouse---html",
+  "version": "1.0.0",
+  "description": "Online shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aika"
+  ],
+  "author": "AikaJan",
+  "license": "ISC"
+}
